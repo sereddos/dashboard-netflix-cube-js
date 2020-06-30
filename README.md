@@ -8,7 +8,7 @@ This is an example of how to render a layer based on [Netflix data](https://www.
 
 ![alt text](public_netflix_screenshot.png)
 
-To create the `netflix` database, please, use the following commands.
+To create the `netflix` database, please, use the following command:
 
 ```javascript
 CREATE TABLE public.netflix
