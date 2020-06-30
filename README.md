@@ -27,6 +27,6 @@ listed_in text,
 description text
 );
 ```
-and use netflix_db.sql to fill the database 
+and use [netflix_db.sql](./netflix_db.sql) to fill the database 
 
 If you have any feedback or questions about this tutorial or about Cube.js in general — feel free to use our [Slack Cube.js community](http://slack.cube.dev/)
