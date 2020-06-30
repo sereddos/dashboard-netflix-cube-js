@@ -8,4 +8,25 @@ This is an example of how to render a layer based on [Netflix data](https://www.
 
 ![alt text](public_netflix_screenshot.png)
 
+To create the `netflix` database, please, use the following commands.
+
+```javascript
+CREATE TABLE public.netflix
+(    
+show_id bigserial,   
+show_type text,
+title text,
+director text,
+leading_role text,
+country text,
+date_added date,
+release_year integer,
+rating text,
+duration text,
+listed_in text,
+description text
+);
+```
+and use netflix_db.sql to fill the database 
+
 If you have any feedback or questions about this tutorial or about Cube.js in general — feel free to use our [Slack Cube.js community](http://slack.cube.dev/)
