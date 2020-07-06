@@ -23,7 +23,7 @@ import { QueryRenderer } from "@cubejs-client/react";
 import cubejs from "@cubejs-client/core";
 
 const API_URL = 'http://localhost:4000/cubejs-api/v1';
-const CUBEJS_TOKEN = 'YOUR_CUBEJS_TOKEN';;
+const CUBEJS_TOKEN = 'YOUR_CUBEJS_TOKEN';
 
 const cubejsApi = cubejs(CUBEJS_TOKEN, {
  apiUrl: API_URL

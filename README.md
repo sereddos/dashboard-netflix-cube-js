@@ -1,5 +1,7 @@
 This example is about data visualization on dashboards. I used Ant Design of React, Cube.JS to retrieve data and PostgreSQL as a database. 
 
+[You can check out the demo here](https://master.d1un0kidbdy980.amplifyapp.com/)
+
 If you’re not familiar with Cube.JS yet, please visit [Cube JS Sample React app tutorial](https://cube.dev/blog/cubejs-open-source-dashboard-framework-ultimate-guide/) before continuing this tutorial.
 
 As the start point I used a sample Cube.JS React app.
